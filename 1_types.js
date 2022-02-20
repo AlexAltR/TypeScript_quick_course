@@ -34,4 +34,3 @@ function infinite() {
 var login = 'admin'; // Применили тип данных
 var id1 = 1254;
 var id2 = '1234';
-// const id3: ID = true
