@@ -21,3 +21,5 @@ enum SocialMedia {
 
 const social = SocialMedia.INSTAGRAM
 console.log(social) // Выведет 'INSTAGRAM'
+
+
